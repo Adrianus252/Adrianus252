@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Adrianus and i am currently doing my masters degree in computer science at Fulda University of Applied Sciences.
+
+
 <!--
 **Adrianus252/Adrianus252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
